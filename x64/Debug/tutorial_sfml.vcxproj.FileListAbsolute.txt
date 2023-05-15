@@ -1,0 +1,2 @@
+C:\Users\AlaDd\Desktop\tutorial_sfml\x64\Debug\tutorial_sfml.exe
+C:\Users\AlaDd\Downloads\tutorial_sfml\x64\Debug\tutorial_sfml.exe

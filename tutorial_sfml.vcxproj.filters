@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Downloads\Compressed\sf_bomBot-main\sf_bomBot-main\src\board.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Downloads\Compressed\sf_bomBot-main\sf_bomBot-main\src\sprite_manager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Downloads\Compressed\sf_bomBot-main\sf_bomBot-main\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\Downloads\Compressed\sf_bomBot-main\sf_bomBot-main\res\num5.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\Downloads\Compressed\sf_bomBot-main\sf_bomBot-main\res\num6.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\Downloads\Compressed\sf_bomBot-main\sf_bomBot-main\res\num7.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\Downloads\Compressed\sf_bomBot-main\sf_bomBot-main\res\num8.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\Downloads\Compressed\sf_bomBot-main\sf_bomBot-main\res\tim0.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\Downloads\Compressed\sf_bomBot-main\sf_bomBot-main\res\tim1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\Downloads\Compressed\sf_bomBot-main\sf_bomBot-main\res\tim2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\Downloads\Compressed\sf_bomBot-main\sf_bomBot-main\res\tim3.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\Downloads\Compressed\sf_bomBot-main\sf_bomBot-main\res\tim4.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\Downloads\Compressed\sf_bomBot-main\sf_bomBot-main\res\tim5.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\Downloads\Compressed\sf_bomBot-main\sf_bomBot-main\res\tim6.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\Downloads\Compressed\sf_bomBot-main\sf_bomBot-main\res\tim7.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\Downloads\Compressed\sf_bomBot-main\sf_bomBot-main\res\tim8.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\Downloads\Compressed\sf_bomBot-main\sf_bomBot-main\res\tim9.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\Downloads\Compressed\sf_bomBot-main\sf_bomBot-main\res\ucvd.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\Downloads\Compressed\sf_bomBot-main\sf_bomBot-main\res\bomb.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\Downloads\Compressed\sf_bomBot-main\sf_bomBot-main\res\clrd.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\Downloads\Compressed\sf_bomBot-main\sf_bomBot-main\res\dead.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\Downloads\Compressed\sf_bomBot-main\sf_bomBot-main\res\done.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\Downloads\Compressed\sf_bomBot-main\sf_bomBot-main\res\flag.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\Downloads\Compressed\sf_bomBot-main\sf_bomBot-main\res\hppy.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\Downloads\Compressed\sf_bomBot-main\sf_bomBot-main\res\num1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\Downloads\Compressed\sf_bomBot-main\sf_bomBot-main\res\num2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\Downloads\Compressed\sf_bomBot-main\sf_bomBot-main\res\num3.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\Downloads\Compressed\sf_bomBot-main\sf_bomBot-main\res\num4.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Downloads\Compressed\sf_bomBot-main\sf_bomBot-main\src\board.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Downloads\Compressed\sf_bomBot-main\sf_bomBot-main\src\config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Downloads\Compressed\sf_bomBot-main\sf_bomBot-main\src\config_internal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Downloads\Compressed\sf_bomBot-main\sf_bomBot-main\src\sprite_config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Downloads\Compressed\sf_bomBot-main\sf_bomBot-main\src\sprite_manager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\Downloads\Compressed\sf_bomBot-main\sf_bomBot-main\src\makefile" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,2 @@
+﻿  tutorial_sfml.cpp
+LINK : fatal error LNK1181: cannot open input file 'sfml-windo.lib'

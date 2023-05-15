@@ -1,0 +1,18 @@
+﻿  main.cpp
+C:\Users\AlaDd\Downloads\Compressed\sf_bomBot-main\sf_bomBot-main\src\config_internal.h(11,106): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\AlaDd\Downloads\Compressed\sf_bomBot-main\sf_bomBot-main\src\config_internal.h(12,55): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\AlaDd\Downloads\Compressed\sf_bomBot-main\sf_bomBot-main\src\config_internal.h(14,44): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\AlaDd\Downloads\Compressed\sf_bomBot-main\sf_bomBot-main\src\config_internal.h(15,57): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\AlaDd\Downloads\Compressed\sf_bomBot-main\sf_bomBot-main\src\config_internal.h(16,44): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\AlaDd\Downloads\Compressed\sf_bomBot-main\sf_bomBot-main\src\config_internal.h(17,57): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\AlaDd\Downloads\Compressed\sf_bomBot-main\sf_bomBot-main\src\config_internal.h(18,44): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\AlaDd\Downloads\Compressed\sf_bomBot-main\sf_bomBot-main\src\config_internal.h(19,57): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\AlaDd\Downloads\Compressed\sf_bomBot-main\sf_bomBot-main\src\main.cpp(16,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\AlaDd\Downloads\Compressed\sf_bomBot-main\sf_bomBot-main\src\main.cpp(17,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\AlaDd\Downloads\Compressed\sf_bomBot-main\sf_bomBot-main\src\main.cpp(34,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\AlaDd\Downloads\Compressed\sf_bomBot-main\sf_bomBot-main\src\main.cpp(35,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\AlaDd\Downloads\Compressed\sf_bomBot-main\sf_bomBot-main\src\main.cpp(41,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\AlaDd\Downloads\Compressed\sf_bomBot-main\sf_bomBot-main\src\main.cpp(42,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\AlaDd\Downloads\Compressed\sf_bomBot-main\sf_bomBot-main\src\main.cpp(72,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\AlaDd\Downloads\Compressed\sf_bomBot-main\sf_bomBot-main\src\main.cpp(73,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  tutorial_sfml.vcxproj -> C:\Users\AlaDd\Downloads\tutorial_sfml\x64\Debug\tutorial_sfml.exe
